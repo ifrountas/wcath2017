@@ -115,6 +115,15 @@ a.genericon-youtube:hover::before {
 	width: 100%;
 }
 
+/* Added From Iakovos */
+
+.th.tix-column-description,
+.tix-column-price,
+.tix-column-remaining,
+.tix-column-quantity {
+	font-family: 'Roboto';
+}
+
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,

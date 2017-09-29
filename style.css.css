@@ -121,7 +121,7 @@ a.genericon-youtube:hover::before {
 .tix-column-price,
 .tix-column-remaining,
 .tix-column-quantity {
-	font-family: 'Roboto';
+	font-family: 'Roboto'!important;
 }
 
 /*******************************************************************************************************/
